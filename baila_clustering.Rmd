@@ -1,6 +1,6 @@
 ---
 title: "BAILA_clustering"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
