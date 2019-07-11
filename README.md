@@ -9,7 +9,10 @@ install R can be found here: https://www.r-project.org.
 
 ## Running the analysis
 Data: data used in our analysis are storeda as ../generated_data/clean_baila_data.rda.This can be used as sample data for other users who are interested in learning how to preform hierarchical urban habitat classification.
+
 <br /> R code: R script to conduct hierarchical urban habitat classification can be found at: ../code/hierarchical_clustering.R. 
+
+<br /> A R markdown file is also availale at ../baila_clustering.pdf and ../baila_clustering.Rmd.
 
 ## Note
 Please see manuscript "An urban biodiversity assessment framework that combines an urban habitat classification scheme and citizen science data" (doi: 10.3389/fevo.2019.00277) for background information.
