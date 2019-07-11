@@ -12,4 +12,4 @@ Data: data used in our analysis is storeda as ../generated_data/clean_baila_data
 R code: R script to conduct hierarchical urban habitat classification can be found at: ../code/hierarchical_clustering.r. 
 
 ## Note
-Please see manuscript "An urban biodiversity assessment framework that combines an urban habitat classification scheme and citizen science data" (doi: 10.3389/fevo.2019.00277) for more information and background.
+Please see manuscript "An urban biodiversity assessment framework that combines an urban habitat classification scheme and citizen science data" (doi: 10.3389/fevo.2019.00277) for background information.
