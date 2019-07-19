@@ -15,4 +15,4 @@ Data: data used in our analysis are storeda as ../generated_data/clean_baila_dat
 <br /> A R markdown file is also availale at ../baila_clustering.pdf and ../baila_clustering.Rmd.
 
 ## Note
-Please see manuscript "An urban biodiversity assessment framework that combines an urban habitat classification scheme and citizen science data" (doi: 10.3389/fevo.2019.00277) for background information.
+Please see manuscript "An urban biodiversity assessment framework that combines an urban habitat classification scheme and citizen science data" (doi: 10.3389/fevo.2019.00277) for background information. For interactive map, please see my Shiny R map at: https://janeli.shinyapps.io/BAILA_shinyR_app/
